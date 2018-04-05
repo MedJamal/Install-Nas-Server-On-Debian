@@ -78,3 +78,5 @@ create mask = 0660
 directory mask = 0771
 read only = no
 ```
+
+#### For any informations: medjamal.ouazani@gmail.com
